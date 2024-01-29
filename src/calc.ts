@@ -1,3 +1,3 @@
-export const somar =(a:number, b:number): number =>{
+export const somar = (a:number, b:number): number => {
     return a + b;
 }
